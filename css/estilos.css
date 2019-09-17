@@ -9,5 +9,13 @@ header{
 
 
 img{
-    width: 10%;
+    width: 15%;
 }
+
+header:hover{background:brown;}
+
+ul{
+    list-style: none;
+}
+
+a:hover{color: black;}
